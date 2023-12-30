@@ -58,7 +58,7 @@ How create a systemd service to run i/o scheduler on fedora
   ```
  
 
-This systemd service will run the specified commands during system boot. 
+This systemd service will run the specified commands during system boot.
 
 ## TODO:
 
